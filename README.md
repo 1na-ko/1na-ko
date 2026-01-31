@@ -2,8 +2,6 @@
 
 **Welcome!**
 
-## 技术栈
-
 ### 前端
 - **框架**: Vue 3
 - **语言**: JavaScript / TypeScript
