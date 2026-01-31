@@ -1,5 +1,3 @@
-# inako
-
 **Welcome!**
 
 ### 前端
