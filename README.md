@@ -1,13 +1,13 @@
 **Welcome!**
 
 ### 前端
-- **框架**: Vue 3
-- **语言**: JavaScript / TypeScript
+- Vue 3、JavaScript / TypeScript
 
 ### 后端
-- **主力**: Java (Spring Boot)
-- **探索中**: Go
+- Java (Spring Boot)、Go（探索中）
 
-### 人工智能 / 智能体开发
-- **RAG 应用开发**: 利用检索增强生成技术构建知识问答与增强型应用。
-- **智能体（Agent）开发**: 正在学习使用 **Python** 和 **Java** 构建自主或协作式AI智能体。
+### AI
+- RAG 应用开发、智能体（Agent）开发: 使用 Python 、Java 和 Go（探索中） 构建 RAG Bot 及 AI 智能体。
+
+### 移动端
+- HarmonyOS 开发（探索中）： 使用 ArkTS 进行鸿蒙应用开发
